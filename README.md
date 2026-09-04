@@ -1,16 +1,17 @@
 ## Hi there 👋
+# Hi, I’m Nicole
 
-<!--
-**nickcouto/nickcouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Product Designer working across product design, design systems, and design-to-code.
 
-Here are some ideas to get you started:
+I use GitHub to share experiments, prototypes, reusable components, and the systems behind the interfaces I design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m interested in
+
+- Product design for complex workflows
+- Design systems and reusable components
+- Design tokens and frontend implementation
+- Better collaboration between design and engineering
+
+## Currently exploring
+
+Turning design decisions into working, inspectable code.
