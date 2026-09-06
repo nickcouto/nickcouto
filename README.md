@@ -38,8 +38,8 @@ My software practice in Belo Horizonte, where I do design system foundation work
 
 ---
 
-## Currently
+## Working with teams
 
-Open to Lead, Staff, and Principal roles in design systems and design engineering. Remote, international.
+I take on design system and design engineering work on contract: foundation and token work, system adoption, and design-to-code pipelines. Remote, international. Open to selected lead and staff roles as well.
 
 The fastest way to see how I work is [nicolecouto.com](https://nicolecouto.com).
