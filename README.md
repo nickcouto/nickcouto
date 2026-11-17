@@ -1,45 +1,29 @@
 # Nicole Couto
 
-**Lead Product Designer, Design Ops.** I work where design systems, complex product UI, and frontend implementation meet.
+Senior Product Designer who builds what I design. 20+ years in tech across UX research, product management and product design, focused on design systems and AI-assisted product development.
 
-20+ years in tech across UX research, usability, product management, and product design. Today I lead design systems work and build the frontend side of it myself, so design decisions arrive in code as tokens, components, and specs an engineer can actually use.
+Based in Belo Horizonte, Brazil. I've worked remotely with international teams as a contractor for 8+ years.
 
-Based in Belo Horizonte, Brazil. Working remotely with international teams.
+## What I'm doing now
 
----
+For the past year I've been learning front-end and building my own products. I take an idea from research and PRD through architecture, code and deployment with Claude Code, Codex and Cursor.
 
-## What I do
+- **A Brazil-first consumer web platform (in progress, not public yet)** - a verified data catalog, an automated data pipeline with daily collection and validation, and its own design system documented in Storybook. Built with TypeScript, React, Astro and Storybook, running on Cloudflare Pages, D1 and Access, with CI on GitHub Actions.
+- **nicolecouto.com** - my portfolio, designed in Figma and built in HTML, CSS and JavaScript, with the Figma file and the code kept in sync. [Live site](https://nicolecouto.com) · [Repository](https://github.com/nickcouto/portfolio-v2-1)
 
-**Design systems**
-Foundations, design tokens, component APIs, adoption across product teams, and the governance that keeps a system alive after launch.
+## What I work on
 
-**Design to code**
-Figma to implementation specs, Storybook and documentation, token pipelines, and the working agreements that make design and engineering hand off cleanly.
-
-**Complex product UI**
-Data-dense workflows, multi-team products, and the kind of interface where the hard part is the decision model, not the screen.
-
-**AI-assisted product workflows**
-Using AI inside the design to implementation loop as a practical tool, not as positioning.
-
----
+**Design systems.** Foundations, tokens, component APIs, documentation and adoption across product teams.
+**End-to-end product design.** Discovery, flows, specs and implementation review on complex B2B and B2C products.
+**Design to code.** Figma libraries, Storybook, and handoffs engineers can build from.
+**AI in the workflow.** Prototypes, specs and builds with AI as a daily tool.
 
 ## Selected work
 
-### Design system at PactFi (2021 to 2026)
-Led the design system as Lead Product Designer, Design Systems and AI Workflows. Adopted by all four product teams. My scope covered Figma to code specs, documentation and Storybook contributions, and the design and engineering workflow around the system.
+**Founding designer, New York private-credit fintech (2021 to 2026).** Built the product from day one with the founders, through a $25M Series A. Created a design system of 23 component families used by four product teams across about 130 flows, and helped grow the design team to six.
 
-### nicolecouto.com
-Personal portfolio, designed in Figma and built by hand in HTML, CSS, and JavaScript, with the Figma source and the codebase kept in sync.
-[Live site](https://nicolecouto.com) · [Repository](https://github.com/nickcouto/portfolio-v2-1)
+## Work with me
 
-### Ideaslab
-My software practice in Belo Horizonte, where I do design system foundation work with product teams that have outgrown their UI foundation.
-
----
-
-## Working with teams
-
-I take on design system and design engineering work on contract: foundation and token work, system adoption, and design-to-code pipelines. Remote, international. Open to selected lead and staff roles as well.
+Open to remote Senior Product Designer, Design Systems and design engineering roles, and to contract work through Ideaslab, my practice in Belo Horizonte.
 
 The fastest way to see how I work is [nicolecouto.com](https://nicolecouto.com).
