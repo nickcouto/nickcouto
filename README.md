@@ -1,7 +1,6 @@
 # Nicole Couto
 
 Senior Product Designer who builds what I design. 20+ years in tech across UX research, product management and product design, focused on design systems and AI-assisted product development.
-
 Based in Belo Horizonte, Brazil. I've worked remotely with international teams as a contractor for 8+ years.
 
 ## What I'm doing now
@@ -17,10 +16,6 @@ For the past year I've been learning front-end and building my own products. I t
 **End-to-end product design.** Discovery, flows, specs and implementation review on complex B2B and B2C products.
 **Design to code.** Figma libraries, Storybook, and handoffs engineers can build from.
 **AI in the workflow.** Prototypes, specs and builds with AI as a daily tool.
-
-## Selected work
-
-**Founding designer, New York private-credit fintech (2021 to 2026).** Built the product from day one with the founders, through a $25M Series A. Created a design system of 23 component families used by four product teams across about 130 flows, and helped grow the design team to six.
 
 ## Work with me
 
